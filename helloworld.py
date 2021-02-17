@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print("Hello World from Python!")
+print("Hello World from Python program!")
